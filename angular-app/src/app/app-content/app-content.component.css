@@ -1,0 +1,9 @@
+.content{
+  width: 100%;
+  background: rgb(236, 237, 238);
+  opacity: 0.8;
+  border: 1px;
+  padding: 20px;
+  margin: 2px;
+  text-align: left;
+}
